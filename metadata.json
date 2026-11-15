@@ -1,0 +1,6 @@
+{
+  "name": "NINJAREBORN",
+  "description": "NINJAREBORN — พอร์ทัลเกม 2D Ninja MMORPG คลาสสิก สมัครเล่น ดาวน์โหลด เติมเงิน และติดตามข่าวสารอัปเดต",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
